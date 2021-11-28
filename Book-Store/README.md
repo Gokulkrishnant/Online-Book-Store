@@ -45,6 +45,6 @@ This is an E-commerece project for buying books online where admin can add the a
 - python Django
 - Tessart javascript library
 
-Screenshots(https://github.com/Gokulkrishnant/Online-Book-Store/tree/main/Book-Store/Project%20Screenshots)
+[Screenshots](https://github.com/Gokulkrishnant/Online-Book-Store/tree/main/Book-Store/Project%20Screenshots)
 
 
