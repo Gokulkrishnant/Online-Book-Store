@@ -11,7 +11,7 @@ This is an E-commerece project for buying books online where admin can add the a
     ```
     
     ```
- 4. Open [config_paytm.php](/User-Interface/payment/lib/config_paytm.php) .You need to change the Merchant key and Merchant ID.
+ 4. Open [config_paytm.php](https://github.com/Gokulkrishnant/Online-Book-Store/blob/main/Book-Store/User-Interface/payment/lib/config_paytm.php) .You need to change the Merchant key and Merchant ID.
     ``` 
     define('PAYTM_ENVIRONMENT', 'TEST'); // PROD
     define('PAYTM_MERCHANT_KEY', 'ADD Merchant key'); //Change this constant's value with Merchant key received from Paytm.
@@ -28,6 +28,8 @@ This is an E-commerece project for buying books online where admin can add the a
   - Payment Gateway
   - Order Tracking
   - Bill Printing Functionality
+  - Book Conversion
+  - Image Conversion
   
 
 
