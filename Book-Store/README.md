@@ -6,7 +6,7 @@ This is an E-commerece project for buying books online where admin can add the a
 
 ## Configuration requirements
  1. To set this web application, make sure PHP and PHPMyAdmin is installed on your server.
- 2. Next open PHPMyAdmin, import the [bookstore (1).sql](/bookstore%20(1).sql) file.This will generate tables in your database on your server.
+ 2. Next open PHPMyAdmin, import the [bookstore (1).sql](https://github.com/Gokulkrishnant/Online-Book-Store/blob/main/Book-Store/bookstore%20(1).sql) file.This will generate tables in your database on your server.
  
     ```
     
