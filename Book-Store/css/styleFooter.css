@@ -1,0 +1,33 @@
+/*---------footer----------*/
+.footer{
+ background-color:#1E2225;
+ color:#FFFF;
+ text-align:-webkit-left;
+ 
+ 
+}
+.end{
+  text-align:-webkit-match-parent;
+  padding-bottom:10px;
+}
+
+
+
+.logo1{
+width:250px;
+height:100px;
+padding-left:40px;
+padding-top:20px;
+}
+.linkk{
+color:#DDDDDDDD;
+}
+.linkk:hover{
+color:#11b4f2;
+}
+.linkUp{
+ padding-right:40px;
+ padding-top:30px;
+ float:right;
+ 
+}
