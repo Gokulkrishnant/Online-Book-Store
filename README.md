@@ -16,4 +16,3 @@ Convert the Image to Text.
 
 This website will make  a user to get any book with free of cost. User can convert pdf book to audio and image to text.
 An addition of Comment section and Rating section will be added in future.
-![image](https://user-images.githubusercontent.com/60034326/143784513-0b3d8300-8272-4a15-a710-8b56354e1c2d.png)
